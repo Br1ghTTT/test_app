@@ -388,9 +388,8 @@ Temporary Items
 =======
 # Local
 docker-compose.yml
-development.env
 dist
-development.env
+
 .husky
 .husky/_
 secrets/secret.json
